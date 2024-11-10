@@ -4,6 +4,10 @@
 
 Travel Tracker is a web application developed as part of "The Complete Web Development Bootcamp" by Angela Yu. This project leverages Node.js, Express, PostgreSQL, EJS, HTML, CSS, and JavaScript to provide users with an interactive experience where they can input a country name, and that country gets highlighted on a world map displayed on the web page.
 
+# Screenshot
+![Screenshot 2024-11-11 040713](https://github.com/user-attachments/assets/a632ab58-bbe0-42d7-b02d-ce00a926c3ee)
+
+
 ## Features
 
 - **Interactive World Map**: Users can input the name of a country, and that country will be colored on the world map.
